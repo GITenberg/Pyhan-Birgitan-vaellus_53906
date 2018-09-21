@@ -1,5 +1,5 @@
 _repo: Pyhan-Birgitan-vaellus_53906
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Heliga Birgittas pilgrimsfärd. Finnish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     - H., Y.
     gutenberg_agent_id: '47602'
     url: http://www.gutenberg.org/2009/agents/47602
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Heidenstam, Verner von
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5027
     wikipedia: http://en.wikipedia.org/wiki/Verner_von_Heidenstam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53906#Pyhan-Birgitan-vaellus
 gutenberg_issued: '2017-01-06'
 gutenberg_type: Text
 identifiers:
