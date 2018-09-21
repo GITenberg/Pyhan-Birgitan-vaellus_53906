@@ -1,0 +1,38 @@
+_repo: Pyhan-Birgitan-vaellus_53906
+_version: 0.0.1
+alternative_title: Heliga Birgittas pilgrimsfärd. Finnish
+contributor:
+  translator:
+    agent_name: Haapanen, Toimi
+    aliases:
+    - Y. H.
+    - H., Y.
+    gutenberg_agent_id: '47602'
+    url: http://www.gutenberg.org/2009/agents/47602
+creator:
+  author:
+    agent_name: Heidenstam, Verner von
+    aliases:
+    - Von Heidenstam, Verner
+    - Heidenstam, Karl Gustaf Verner von
+    birthdate: 1859
+    deathdate: 1940
+    gutenberg_agent_id: '5027'
+    url: http://www.gutenberg.org/2009/agents/5027
+    wikipedia: http://en.wikipedia.org/wiki/Verner_von_Heidenstam
+description: ''
+gutenberg_issued: '2017-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53906'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcsh 'Bridget, of Sweden, Saint, approximately 1303-1373 -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: Pyhän Birgitan vaellus
+url: http://www.gutenberg.org/ebooks/53906
